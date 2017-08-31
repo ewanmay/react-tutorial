@@ -1,0 +1,52 @@
+
+
+.spacer {
+  background-color: #3B78D0;
+  height: 1080px;
+}
+
+.profile-bio {
+  padding: 10px;
+  height: 100%;
+  border: 2px solid #7a7a7a
+}
+
+.name {
+  font-size: 36px;
+}
+
+.age {
+  font-size: 24px;
+}
+
+.interests {
+  font-size: 18px;
+}
+
+.tweet {
+  border: 2px solid #7a7a7a;
+  margin: 10px;
+}
+
+.tweet-userName {
+  padding: 5px;
+  width: 20%;
+  display: inline-block;
+}
+
+.tweet-date {
+  padding: 5px;
+  display: inline;
+}
+
+.tweet-message {
+  padding: 10px;
+}
+
+.tweet-log {
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+}
